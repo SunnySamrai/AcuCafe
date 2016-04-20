@@ -1,0 +1,14 @@
+C:\Users\SSSamrai\Google Drive\Opportunities\AcuCafe\AcuCafe\AcuCafeTestApp\bin\Debug\AcuCafeTestApp.exe.config
+C:\Users\SSSamrai\Google Drive\Opportunities\AcuCafe\AcuCafe\AcuCafeTestApp\bin\Debug\AcuCafeTestApp.exe
+C:\Users\SSSamrai\Google Drive\Opportunities\AcuCafe\AcuCafe\AcuCafeTestApp\bin\Debug\AcuCafeTestApp.pdb
+C:\Users\SSSamrai\Google Drive\Opportunities\AcuCafe\AcuCafe\AcuCafeTestApp\obj\Debug\AcuCafeTestApp.csprojResolveAssemblyReference.cache
+C:\Users\SSSamrai\Google Drive\Opportunities\AcuCafe\AcuCafe\AcuCafeTestApp\obj\Debug\AcuCafeTestApp.exe
+C:\Users\SSSamrai\Google Drive\Opportunities\AcuCafe\AcuCafe\AcuCafeTestApp\obj\Debug\AcuCafeTestApp.pdb
+C:\Dev\AcuCafe\AcuCafe\AcuCafeTestApp\bin\Debug\AcuCafeTestApp.exe.config
+C:\Dev\AcuCafe\AcuCafe\AcuCafeTestApp\obj\Debug\AcuCafeTestApp.exe
+C:\Dev\AcuCafe\AcuCafe\AcuCafeTestApp\bin\Debug\AcuCafeTestApp.exe
+C:\Dev\AcuCafe\AcuCafe\AcuCafeTestApp\bin\Debug\AcuCafeTestApp.pdb
+C:\Dev\AcuCafe\AcuCafe\AcuCafeTestApp\bin\Debug\AcuCafe.dll
+C:\Dev\AcuCafe\AcuCafe\AcuCafeTestApp\bin\Debug\AcuCafe.pdb
+C:\Dev\AcuCafe\AcuCafe\AcuCafeTestApp\obj\Debug\AcuCafeTestApp.csprojResolveAssemblyReference.cache
+C:\Dev\AcuCafe\AcuCafe\AcuCafeTestApp\obj\Debug\AcuCafeTestApp.pdb
